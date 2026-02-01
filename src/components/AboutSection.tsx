@@ -22,12 +22,12 @@ const AboutSection = () => {
               oraz jakie przynoszą efekty.
             </p>
             
-            <div 
-              className="pt-8 border-t border-border animate-fade-up" 
+            <div
+              className="pt-8 border-t border-border animate-fade-up"
               style={{ animationDelay: "0.4s" }}
             >
-              <p className="text-sm text-muted-foreground/80">
-                Badanie realizuje <span className="font-medium text-secondary">MCM Institute</span>.
+              <p className="text-base text-muted-foreground">
+                Badanie realizuje <span className="font-semibold text-secondary">MCM Institute</span>.
               </p>
             </div>
           </div>
