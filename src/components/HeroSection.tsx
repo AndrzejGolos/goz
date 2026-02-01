@@ -9,7 +9,7 @@ const HeroSection = () => {
   return (
     <section className="hero-gradient min-h-[85vh] flex items-center">
       <div className="section-container w-full">
-        <div className="max-w-4xl animate-fade-up">
+        <div className="w-full animate-fade-up">
           <span className="inline-block text-accent font-semibold text-sm tracking-wide uppercase mb-6">
             Badanie ewaluacyjne
           </span>
@@ -18,7 +18,7 @@ const HeroSection = () => {
             Badanie ewaluacyjne szkoleń z&nbsp;zakresu zielonej gospodarki
           </h1>
           
-          <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-10 max-w-3xl">
+          <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-10">
             Twoja opinia pomoże ulepszyć przyszłe programy wsparcia dla przedsiębiorstw 
             w&nbsp;obszarze gospodarki obiegu zamkniętego i&nbsp;niskoemisyjności. 
             Wypełnienie ankiety zajmie około 20&nbsp;minut.

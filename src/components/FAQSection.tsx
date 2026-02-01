@@ -60,7 +60,7 @@ const FAQSection = () => {
           Najczęściej zadawane pytania
         </h2>
 
-        <div className="max-w-3xl">
+        <div className="w-full">
           <Accordion type="single" collapsible className="space-y-3">
             {faqItems.map((item, index) => (
               <AccordionItem

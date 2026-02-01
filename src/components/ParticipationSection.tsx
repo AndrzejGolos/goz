@@ -23,7 +23,7 @@ const ParticipationSection = () => {
           Jak wygląda udział w badaniu?
         </h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 max-w-3xl mb-10">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 lg:gap-8 w-full mb-10">
           {participationMethods.map((method, index) => (
             <div
               key={method.title}

@@ -2,7 +2,7 @@ const AboutSection = () => {
   return (
     <section id="o-badaniu" className="bg-background">
       <div className="section-container">
-        <div className="max-w-4xl">
+        <div className="w-full">
           <h2 className="section-heading mb-10 animate-fade-up" style={{ animationDelay: "0.1s" }}>
             O badaniu
           </h2>
