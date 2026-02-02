@@ -21,7 +21,7 @@ const HeroSection = () => {
           <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-10">
             Twoja opinia pomoże ulepszyć przyszłe programy wsparcia dla przedsiębiorstw 
             w&nbsp;obszarze gospodarki obiegu zamkniętego i&nbsp;niskoemisyjności. 
-            Wypełnienie ankiety zajmie około 20&nbsp;minut.
+            Wypełnienie ankiety zajmie około 15&nbsp;minut.
           </p>
           
           <Button 
