@@ -36,6 +36,15 @@ const Footer = () => {
             >
               Informacja RODO
             </a>
+            <span className="text-border">|</span>
+            <a
+              href="/List_zapowiedni_PARP.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-muted-foreground hover:text-primary transition-colors"
+            >
+              Pismo PARP
+            </a>
           </div>
           
           <span className="text-sm text-muted-foreground/70">

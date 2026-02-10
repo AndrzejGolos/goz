@@ -27,7 +27,18 @@ const AboutSection = () => {
               style={{ animationDelay: "0.4s" }}
             >
               <p className="text-base text-muted-foreground">
-                Badanie realizuje <span className="font-semibold text-secondary">MCM Institute</span>.
+                Badanie realizuje <span className="font-semibold text-secondary">MCM Institute</span> na zlecenie
+                Polskiej Agencji Rozwoju Przedsiębiorczości.
+              </p>
+              <p className="text-base text-muted-foreground mt-3">
+                <a
+                  href="/List_zapowiedni_PARP.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-primary hover:underline"
+                >
+                  Pismo przewodnie PARP (PDF)
+                </a>
               </p>
             </div>
           </div>
