@@ -4,13 +4,13 @@ const participationMethods = [
   {
     icon: Monitor,
     title: "Ankieta online",
-    subtitle: "~15 minut",
+    subtitle: "poniżej 10 minut",
     text: "Ankieta internetowa dostępna na komputerze lub telefonie",
   },
   {
     icon: Phone,
     title: "Ankieta telefoniczna",
-    subtitle: "~15 minut",
+    subtitle: "poniżej 10 minut",
     text: "Rozmowa telefoniczna z przeszkolonym ankieterem",
   },
 ];

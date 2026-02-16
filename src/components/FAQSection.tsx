@@ -16,7 +16,7 @@ const faqItems = [
   },
   {
     question: "Ile czasu zajmie wypełnienie ankiety?",
-    answer: "Wypełnienie ankiety zajmuje około 15 minut.",
+    answer: "Wypełnienie ankiety zajmuje poniżej 10 minut.",
   },
   {
     question: "Czym różni się ankieta online od telefonicznej?",
